@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dicleacet&label=Profile%20views&color=0e75b6&style=flat" alt="dicleacet" /> </p>
 
-- 🔭 I’m currently working on **İstar Data Labs**
-
 - 📫 How to reach me **dicleacet@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
